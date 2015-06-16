@@ -6,10 +6,10 @@ ehthumbs.db
 Desktop.ini
 
 # Shader Cache Files
-ShaderCache\
+RollerBall\Library\ShaderCache\
 
 # Temp Files
-Temp\
+RollerBall\Library\Temp\
 
 # Meta Data
-metadata\
+RollerBall\Library\metadata\
